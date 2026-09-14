@@ -1,9 +1,9 @@
 ## Hi👋 I'M ORUKPE RACHAEL
 
-#### ASPIRING DATA SCIENTIST | DATA ANALYTICS | MACHINE LEARNING | FINTECH & OIL & GAS
+#### DATA SCIENTIST | DATA ANALYTICS | MACHINE LEARNING | FINTECH & OIL & GAS
 ## ABOUT ME
 
-I'm currently learning **Data Science and Machine Learning**, with the intention of specializing in **FinTech and Oil & Gas**.
+I'm a data analyst working towards **Data Science and Machine Learning**, with the intention of specializing in **FinTech and Oil & Gas**.
 
 My interest in data grew from a natural curiosity for **organization, structure, information, and understanding how things connect**. I enjoy gathering information, researching, writing, organizing ideas, documenting findings, and turning scattered information into something clear and structured. When I discovered data and how it could be used to uncover patterns, solve problems, and support better decisions, I became deeply invested in the learning process.
 
